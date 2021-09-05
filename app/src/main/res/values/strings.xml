@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">IHC TP2</string>
+    <string name="geral_resultado">Resultado...</string>
+    <string name="sensores_title">Sensores</string>
+    <string name="btn_soma">Somar</string>
+    <string name="ipt_op1">Operando 1</string>
+    <string name="ipt_op2">Operando 2</string>
+    <string name="titulo_somar">Somar Valores</string>
+    <string name="titulo_enviar">Enviar mensagem</string>
+    <string name="hint_enviar">Digite um texto aqui...</string>
+    <string name="btn_enviar">Enviar</string>
+    <string name="text_enviar">Texto recebido...</string>
+    <string name="btn_voltar">Voltar</string>
+    <string name="btn_sensores">Consultar Sensores</string>
+    <string name="lbl_luminosidade">Luminosidade:</string>
+    <string name="btn_GPS">Ver GPS</string>
+    <string name="label_acelerometro">Acelerômetro</string>
+    <string name="label_gravidade">Gravidade</string>
+    <string name="label_movimento">Movimento detectado!</string>
+</resources>
